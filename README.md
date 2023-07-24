@@ -1,6 +1,6 @@
 ## Oi, meu nome é Rodrigo. Sou estudante de Jogos digitais na Unisinos e estágiario da trilha de .NET na Vortigo Digital.
 <div align="center">
-<img max-width="800" src="https://images4.alphacoders.com/566/thumbbig-566208.webp"/>
+<img max-width="800" src="https://images.alphacoders.com/100/thumbbig-1007573.webp"/>
 
 <div>
 <a href="https://www.instagram.com/rodrigomr_ct/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
