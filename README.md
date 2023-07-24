@@ -1,6 +1,6 @@
 ## Oi, meu nome é Rodrigo. Sou estudante de Jogos digitais na Unisinos e estágiario da trilha de .NET na Vortigo Digital.
 <div align="center">
-<img max-width="800" src="https://github.com/LionMRK/LionMRK/blob/404264912e2ab42b82029dbe2f2500fd9b779e47/assets/demon-slayer-wallpaper.jpg"/>
+<img max-width="800" src="https://images4.alphacoders.com/566/thumbbig-566208.webp"/>
 
 <div>
 <a href="https://www.instagram.com/rodrigomr_ct/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
