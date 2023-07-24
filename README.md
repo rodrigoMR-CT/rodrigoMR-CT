@@ -14,4 +14,4 @@
 <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=LionMRK&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40">
