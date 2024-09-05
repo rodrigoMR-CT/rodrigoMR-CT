@@ -1,4 +1,4 @@
-## Oi, meu nome é Rodrigo. Sou estudante de Jogos digitais na Unisinos e estágiario da trilha de .NET na Vortigo Digital.
+## Oi, meu nome é Rodrigo. Sou estudante de Jogos digitais na Unisinos e desenvolvedor na Vortigo Digital.
 <div align="center">
 <img max-width="800" src="https://images.alphacoders.com/100/thumbbig-1007573.webp"/>
 
